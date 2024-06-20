@@ -12,7 +12,7 @@ This is a collection of study material and follows through guidelines of the AWS
 
 ## Table of Contents
 
-- [Storage](./Storage/storage.md.md)
+- [Storage](./Storage/storage.md)
 - [VPC](./VPC/vpc.md)
 - [CLoudFront](./CloudFront/cloudfront.md)
 - [AWS Lambda](./Lambda/lambda.md)
